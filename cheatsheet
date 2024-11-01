@@ -1,0 +1,1 @@
+RUSTFLAGS="-C target-cpu=native" cargo run --release -- --index 0 --prev-hash 00000000ba94a25be3e2d0cdb1ef390342efbf2913f9ebf362a5cc98efe37ddf --target-zeros 8
